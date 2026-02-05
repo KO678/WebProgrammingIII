@@ -1,1 +1,2 @@
 This is kingston's file called Kingston_file.txt
+FN BN WN AN
