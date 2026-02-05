@@ -1,1 +1,2 @@
 This is Kingston's second file!
+Newly added line for class!
